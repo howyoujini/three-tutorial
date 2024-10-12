@@ -1,5 +1,3 @@
-# three.js-tutorial
-
 # Three.js 6주 커리큘럼
 
 ---
